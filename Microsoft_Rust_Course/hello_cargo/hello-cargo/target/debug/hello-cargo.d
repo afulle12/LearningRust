@@ -1,0 +1,1 @@
+/home/andrew/Tresorit/Code/RustMiniProjects/LearningRust/Microsoft_Rust_Course/hello_cargo/hello-cargo/target/debug/hello-cargo: /home/andrew/Tresorit/Code/RustMiniProjects/LearningRust/Microsoft_Rust_Course/hello_cargo/hello-cargo/src/main.rs
